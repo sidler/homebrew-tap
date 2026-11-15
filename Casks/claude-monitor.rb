@@ -1,6 +1,6 @@
 cask "claude-monitor" do
-  version "1.0.1"
-  sha256 "8033993fcc667eb72546b8c4c9a7ce28561dec8ae756bb4a63c574f714a1763d"
+  version "1.0.2"
+  sha256 "0548eb2ea69e298ae2e220b8d65249f2614dc9bf42a1ca1ec126c3f2091bb6bb"
 
   url "https://github.com/sidler/ClaudeMenuBarMonitor/releases/download/v#{version}/ClaudeMonitor-#{version}.zip"
   name "Claude Monitor"
