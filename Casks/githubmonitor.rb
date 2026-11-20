@@ -1,6 +1,6 @@
 cask "githubmonitor" do
-  version "2.10.0"
-  sha256 "6ce2445df92deee314cc28fb7e60a95812023dd29dc506370237834e863a2be0"
+  version "2.11.0"
+  sha256 "c8e41f79e6ca2e23e587c0ebc4fe2fe5a38572a49cb66c006cd94103797724f5"
 
   url "https://github.com/sidler/GitHubMonitor/releases/download/v#{version}/GitHubMonitor-#{version}.zip"
   name "GitHub Monitor"
